@@ -1,0 +1,4 @@
+host: 10.20.26.58 
+
+user: root
+pass: avaras08
